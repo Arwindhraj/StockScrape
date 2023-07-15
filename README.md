@@ -1,4 +1,4 @@
-# Stock Details
+# StockScrape
 
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
@@ -17,7 +17,7 @@ A Python application to retrieve stock details using web scraping. This applicat
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone https://github.com/Arwindhraj/StockScrape
 ```
 Install the required dependencies:
 ```bash
