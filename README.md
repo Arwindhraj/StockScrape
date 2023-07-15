@@ -35,7 +35,19 @@ Click on the "Show Details" button to retrieve and display the stock details.
 The stock price will be displayed along with a table containing additional information about the stock.
 
 ## Sample Images of the Output
-![Example Image](https://github.com/username/my-repo/raw/main/images/example.png)
+
+**Main Screen**
+
+![Example Image](https://github.com/Arwindhraj/StockScrape/blob/main/main_screen.png)
+
+**Sample Output 1**
+
+![Example Image](https://github.com/Arwindhraj/StockScrape/blob/main/Sample_output_1.png)
+
+**Sample Output 2**
+
+![Example Image](https://github.com/Arwindhraj/StockScrape/blob/main/Sample_output_2.png)
+
 
 License
 This project is licensed under the MIT License.
