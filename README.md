@@ -6,7 +6,7 @@ A Python application to retrieve stock details using web scraping. This applicat
 
 ## Prerequisites
 
-- Python 3.x
+- Python 3.10
 - `tkinter` library
 - `requests` library
 - `BeautifulSoup` library
